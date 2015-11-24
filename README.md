@@ -1,4 +1,4 @@
-# angular-markdown-structure-renderer
+# skeleton-for-wiki-with-angular-and-markdown
 
 ## Usage
 
