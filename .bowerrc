@@ -1,0 +1,4 @@
+{
+	"https_proxy" : "http://euproxy:8080",
+	"proxy" : "http://euproxy:8080"
+}
